@@ -1,0 +1,8 @@
+baseURL = "http://example.com/"
+languageCode = "de-at"
+title = "Bald hier: Neue Homepage"
+theme = "PaperMod"
+
+# Optional: Füge weitere Konfigurationen hinzu
+[params]
+  description = "Hier bald die neue Homepage von Annemarie Kimmel."
